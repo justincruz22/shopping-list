@@ -3,4 +3,4 @@
 - Xbox
 - Tacos
 - More Tacos
-- And Even More Tacos
+- Even More Tacos
